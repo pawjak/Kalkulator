@@ -19,7 +19,7 @@ namespace Kalkulator
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Test3.");
+            MessageBox.Show("Nowa gałąź.");
         }
     }
 }
