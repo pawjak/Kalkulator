@@ -16,10 +16,5 @@ namespace Kalkulator
         {
             InitializeComponent();
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Nowa gałąź test 2.");
-        }
     }
 }
